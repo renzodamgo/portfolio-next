@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-const WelcomePage = () => {
+function WelcomePage() {
   return (
     <div className="main ">
       <div className="container">
@@ -33,6 +33,6 @@ const WelcomePage = () => {
       </div>
     </div>
   );
-};
+}
 
 export default WelcomePage;
