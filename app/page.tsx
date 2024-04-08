@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export default function Home() {
   return (
     <div className="main ">
@@ -6,12 +8,12 @@ export default function Home() {
           <h1 className=" text-4xl md:text-6xl md:w-[600px] text-center  animate-appear z-10">
             <span className="flex justify-center items-center gap-2 md:gap-3">
               Hola{" "}
-              <img
-                className=" h-[40px] md:h-[60px] md:w-[60px] animate-wiggle"
-                src="/img/waving_hand.png"
+              <Image
+                className="h-[40px] md:h-[60px] md:w-[60px] animate-wiggle"
+                src={"/img/waving_hand.png"}
                 height={40}
                 width={40}
-                alt="Hola"
+                alt="Hello"
               />
             </span>
             Estoy creando un portfolio{" "}
