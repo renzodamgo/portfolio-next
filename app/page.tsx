@@ -17,17 +17,7 @@ export default function Home() {
             Estoy creando un portfolio{" "}
             <span className="font-semibold">diferente</span>.
           </h1>
-          {/* <p className=" animate-appear z-10">
-                              Puede visitar la{' '}
-                              <a
-                                  className=" underline"
-                                  href="https://www.renzodamian.space"
-                                  target={'blank'}
-                              >
-                                  <span className=" font-semibold">v1</span> aquí
-                              </a>
-                              .
-                          </p> */}
+
           <div className="absolute top-0 left-0 text-4xl md:text-7xl font-bold opacity-10 text-justify h-screen w-screen overflow-hidden z-1 select-none">
             Hola Hello 你好 Salut Привет Halo こんにちは Ciao Hola Hello 你好
             Salut Привет Halo こんにちは Ciao Olá Hola Hello 你好 Salut Привет
