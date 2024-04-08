@@ -10,7 +10,7 @@ export default function Home() {
               Hola{" "}
               <Image
                 className="h-[40px] md:h-[60px] md:w-[60px] animate-wiggle"
-                src={"/img/waving_hand.png"}
+                src={"/img/waving_hand.webp"}
                 height={40}
                 width={40}
                 alt="Hello"
