@@ -16,7 +16,7 @@ function WelcomePage() {
                 alt="Hello"
               />
             </span>
-            I&aposm building my <span className="font-semibold">portfolio</span>
+            I&apos;m building my <span className="font-semibold">portfolio</span>
             .
           </h1>
 
