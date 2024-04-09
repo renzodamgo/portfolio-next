@@ -16,11 +16,11 @@ function WelcomePage() {
                 alt="Hello"
               />
             </span>
-            I&apos;m building my <span className="font-semibold">portfolio</span>
-            .
+            I&apos;m building my{" "}
+            <span className="font-semibold">portfolio</span>.
           </h1>
 
-          <div className="absolute top-0 left-0 text-4xl md:text-7xl font-bold opacity-10 text-justify h-screen w-screen overflow-hidden z-1 select-none">
+          <div className="absolute top-0 left-0 text-4xl md:text-7xl font-bold opacity-10  h-screen overflow-hidden z-1 select-none w-[130vw] text-center -translate-x-20">
             Hola Hello 你好 Salut Привет Halo こんにちは Ciao Hola Hello 你好
             Salut Привет Halo こんにちは Ciao Olá Hola Hello 你好 Salut Привет
             Halo こんにちは Ciao Hola Hello 你好 Salut Привет Halo こんにちは
@@ -28,7 +28,28 @@ function WelcomePage() {
             Hello 你好 Salut Привет Halo こんにちは Ciao Olá Hola Hello 你好
             Salut Привет Halo こんにちは Ciao Hola Hello 你好 Salut Привет Halo
             こんにちは Ciao Olá Hola Hello 你好 Salut Привет Halo こんにちは
-            Ciao Hola Hello 你好 Salut Привет Halo こんにちは CiaoOlá
+            Ciao Hola Hello 你好 Salut Привет Halo こんにちは Ciao Olá Hola
+            Hello 你好 Salut Привет Halo こんにちは Ciao Hola Hello 你好 Salut
+            Привет Halo こんにちは Ciao Olá Hola Hello 你好 Salut Привет Halo
+            こんにちは Ciao Hola Hello 你好 Salut Привет Halo こんにちは Ciao
+            Olá Hola Hello 你好 Salut Привет Halo こんにちは Ciao Hola Hello
+            你好 Salut Привет Halo こんにちは Ciao Olá Hola Hello 你好 Salut
+            Привет Halo こんにちは Ciao Hola Hello 你好 Salut Привет Halo
+            こんにちは Ciao Olá Hola Hello 你好 Salut Привет Halo こんにちは
+            Ciao Hola Hello 你好 Salut Привет Halo こんにちは Ciao Olá Ciao 
+            Hola Hello 你好 Salut Привет Halo こんにちは Ciao Olá 
+            Olá Hola Hello 你好 Salut Привет Halo こんにちは Ciao Hola Hello
+            你好 Salut Привет Halo こんにちは Ciao Olá Hola Hello 你好 Salut
+            Привет Halo こんにちは Ciao Hola Hello 你好 Salut Привет Halo
+            こんにちは Ciao Olá Hola Hello 你好 Salut Привет Halo こんにちは
+            Ciao Hola Hello 你好 Salut Привет Halo こんにちは Ciao Olá Ciao 
+            Hola Hello 你好 Salut Привет Halo こんにちは Ciao Olá 
+            Olá Hola Hello 你好 Salut Привет Halo こんにちは Ciao Hola Hello
+            你好 Salut Привет Halo こんにちは Ciao Olá Hola Hello 你好 Salut
+            Привет Halo こんにちは Ciao Hola Hello 你好 Salut Привет Halo
+            こんにちは Ciao Olá Hola Hello 你好 Salut Привет Halo こんにちは
+            Ciao Hola Hello 你好 Salut Привет Halo こんにちは Ciao Olá Ciao 
+            Hola Hello 你好 Salut Привет Halo こんにちは Ciao Olá
           </div>
         </div>
       </div>
