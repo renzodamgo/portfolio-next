@@ -16,7 +16,8 @@ function WelcomePage() {
                 alt="Hello"
               />
             </span>
-            I'm building my <span className="font-semibold">portfolio</span>.
+            I&aposm building my <span className="font-semibold">portfolio</span>
+            .
           </h1>
 
           <div className="absolute top-0 left-0 text-4xl md:text-7xl font-bold opacity-10 text-justify h-screen w-screen overflow-hidden z-1 select-none">
